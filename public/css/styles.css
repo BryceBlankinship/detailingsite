@@ -7633,6 +7633,7 @@ textarea.form-control-lg {
 }
 
 .fw-bolder {
+  color: white;
   font-weight: bolder !important;
 }
 
@@ -11316,6 +11317,7 @@ hr.divider-light {
 
 #mainNav {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  background-image: url("assets/checkered banner.jpeg");
   background-color: #fff;
   transition: background-color 0.2s ease;
 }
@@ -11379,7 +11381,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../assets/background\ image\ 2.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
